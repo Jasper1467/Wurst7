@@ -30,3 +30,5 @@ run/
 hs_err_pid*
 
 desktop.ini
+
+MergePullRequestFromBaseRepo.bat
